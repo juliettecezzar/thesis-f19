@@ -1,16 +1,16 @@
 # BFA Communication Design Thesis, Fall 2019
 Repository for Thesis 1, Fall 2019.
 
-## COURSE DESCRIPTION
+## Course description
 
 Thesis 1 & Thesis 2 are a year-long self-driven investigation into the research, prototyping and design of an identified question, critique, or point of view. It provides an opportunity for design innovation and inquiry through the rigorous research and development of a capstone project, through various pathways across platforms. The goal of the first semester is to research, develop and articulate a thesis concept and create an initial prototype, including designed presentations of research and process. Thesis 1, in particular, focuses on process, which includes primary and secondary research, prototyping, documenting and writing about one’s own work. The semester culminates in a finished project or proposal, written statement, and presentation of work.
 
 
-## THE WORK OF THESIS
+## The work of thesis
 
 Thesis is as much about the design process as design projects. By moving through the design process—research, ideation, prototyping, iteration, and presentation—students will begin to develop projects by way of exploration across multiple media. Students will be asked to reflect on how their ideas—as expressed through design—sits alongside historical precedent and shapes culture in the present. It provides an opportunity for visual innovation through the development of a rigorous design process. This includes articulation of research, which contextualizes how one’s work posits itself within larger historical, cultural, social, and technological frameworks.
 
-## COURSE OUTLINE
+## Course outline
 
 ### Week 1–5: Research Exercises
 Students will identify and document a question, critique, or point of view that they would like to address. They will research it and collate all findings in an organized manner. In the next step, students will map possible design solutions and choose three approaches they would like to explore. During the process, students will write about their own work as well as about historic and current precedents to reflect and understand their context.
