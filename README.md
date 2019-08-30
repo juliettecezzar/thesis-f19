@@ -12,17 +12,17 @@ Thesis is as much about the design process as design projects. By moving through
 
 ## COURSE OUTLINE
 
-Week 1–5: Research Exercises
+### Week 1–5: Research Exercises
 Students will identify and document a question, critique, or point of view that they would like to address. They will research it and collate all findings in an organized manner. In the next step, students will map possible design solutions and choose three approaches they would like to explore. During the process, students will write about their own work as well as about historic and current precedents to reflect and understand their context.
 
-Week 6–8: Medium 1
+### Week 6–8: Medium 1
 Students will create a series of prototypes that can be used to test whether or not the proposed design will work. They will appreciate the current best practice and methods—demonstrated through successful examples in class—to : prototype, user-test, evaluate, implement and document their project. 
 
-Week 9–11: Medium 2
+### Week 9–11: Medium 2
 Based on the experience of the first medium, students will create a second prototype or series of prototypes in a different media to explore an alternative approach.
 
-Week 11–14: Medium 3
+### Week 11–14: Medium 3
 Based on the experience of the first two mediums, students will create a third prototype or series of prototypes in a different media to explore an alternative approach.
 
-Week 15: Final Reviews
+### Week 15: Final Reviews
 Students will gather their research, prototypes, feedback to share in a final critique with peers and industry professionals. Students will write a reflection statement about the subjects they chose, the concepts created, and where their thesis sits in the larger world of communication design
