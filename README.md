@@ -15,14 +15,35 @@ Thesis is as much about the design process as design projects. By moving through
 ### Week 1–5: Research Exercises
 Students will identify and document a question, critique, or point of view that they would like to address. They will research it and collate all findings in an organized manner. In the next step, students will map possible design solutions and choose three approaches they would like to explore. During the process, students will write about their own work as well as about historic and current precedents to reflect and understand their context.
 
+8/30	Introduction, in-class exercise
+9/6 	Topics to questions: Exercise 1
+9/13	Topics to questions: Exercise 2 _CD Lecture series: Thierry Blancpain_
+9/20	Topics to questions: Exercise 3		
+9/27	Topics to questions: Exercise 4 _CD Lecture series: Tala Safié_
+
 ### Week 6–8: Medium 1
 Students will create a series of prototypes that can be used to test whether or not the proposed design will work. They will appreciate the current best practice and methods—demonstrated through successful examples in class—to : prototype, user-test, evaluate, implement and document their project. 
+
+10/4 	Research and Ideation 		
+10/11 Prototyping & Iteration _CD Lecture series: Rachel Berger_
+10/18	Presentation _first assessment_
 
 ### Week 9–11: Medium 2
 Based on the experience of the first medium, students will create a second prototype or series of prototypes in a different media to explore an alternative approach.
 
+10/25	Research and Ideation _CD Lecture series: Luke Bulman_
+11/1 	Prototyping & Iteration
+11/8	Presentation  _thesis fair, second assessment_
+
 ### Week 11–14: Medium 3
 Based on the experience of the first two mediums, students will create a third prototype or series of prototypes in a different media to explore an alternative approach.
 
+11/15	Research and Ideation 		
+11/22 Prototyping & Iteration _CD Lecture series: Chris Lee_
+11/29	NO CLASS
+12/6	Presentation
+    
 ### Week 15: Final Reviews
 Students will gather their research, prototypes, feedback to share in a final critique with peers and industry professionals. Students will write a reflection statement about the subjects they chose, the concepts created, and where their thesis sits in the larger world of communication design
+
+12/13	Final reviews
