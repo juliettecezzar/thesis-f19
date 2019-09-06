@@ -16,7 +16,7 @@ Thesis is as much about the design process as design projects. By moving through
 Students will identify and document a question, critique, or point of view that they would like to address. They will research it and collate all findings in an organized manner. In the next step, students will map possible design solutions and choose three approaches they would like to explore. During the process, students will write about their own work as well as about historic and current precedents to reflect and understand their context.
 
 * [8/30	Introduction](https://github.com/juliettecezzar/thesis-f19/wiki/01%E2%80%94Introduction), in-class exercise
-* 9/6 	Topics to questions: Exercise 1
+* [9/6 	Topics to questions: Exercise 1](https://github.com/juliettecezzar/thesis-f19/wiki/02%E2%80%94Topics-to-Questions:-Exercise-1)
 * 9/13	Topics to questions: Exercise 2 _CD Lecture series: Thierry Blancpain_
 * 9/20	Topics to questions: Exercise 3		
 * 9/27	Topics to questions: Exercise 4 _CD Lecture series: Tala Safié_
