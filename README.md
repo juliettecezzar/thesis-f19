@@ -19,7 +19,7 @@ Students will identify and document a question, critique, or point of view that 
 * [9/6 	Topics to questions: Exercise 1](https://github.com/juliettecezzar/thesis-f19/wiki/02%E2%80%94Topics-to-Questions:-Exercise-1)
 * [9/13	Topics to questions: Exercise 2](https://github.com/juliettecezzar/thesis-f19/wiki/02%E2%80%94Topics-to-Questions:-Exercise-1) _CD Lecture series: Thierry Blancpain_
 * [9/20	Topics to questions: Exercise 3](https://github.com/juliettecezzar/thesis-f19/wiki/9-20-Topics-to-questions:-Exercise-3)		
-* 9/27	Topics to questions: Exercise 4 _CD Lecture series: Tala Safié_
+* [9/27	Topics to questions: Exercise 4](https://github.com/juliettecezzar/thesis-f19/wiki/05%E2%80%94Topics-to-questions:-Exercise-4) _CD Lecture series: Tala Safié_
 
 ### Week 6–8: Medium 1
 Students will create a series of prototypes that can be used to test whether or not the proposed design will work. They will appreciate the current best practice and methods—demonstrated through successful examples in class—to : prototype, user-test, evaluate, implement and document their project. 
