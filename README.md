@@ -25,7 +25,7 @@ Students will identify and document a question, critique, or point of view that 
 Students will create a series of prototypes that can be used to test whether or not the proposed design will work. They will appreciate the current best practice and methods—demonstrated through successful examples in class—to : prototype, user-test, evaluate, implement and document their project. 
 
 * [10/4 	Research and Ideation](https://github.com/juliettecezzar/thesis-f19/wiki/06%E2%80%94Research-and-Ideation) 		
-* 10/11 Prototyping & Iteration _CD Lecture series: Rachel Berger_
+* [10/11 Prototyping & Iteration](https://github.com/juliettecezzar/thesis-f19/wiki/07%E2%80%94Prototyping-&-Iteration) _CD Lecture series: Rachel Berger_
 * 10/18	Presentation _first assessment_
 
 ### Week 9–11: Medium 2
