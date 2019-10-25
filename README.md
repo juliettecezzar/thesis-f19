@@ -26,7 +26,7 @@ Students will create a series of prototypes that can be used to test whether or 
 
 * [10/4 	Research and Ideation](https://github.com/juliettecezzar/thesis-f19/wiki/06%E2%80%94Research-and-Ideation) 		
 * [10/11 Prototyping & Iteration](https://github.com/juliettecezzar/thesis-f19/wiki/07%E2%80%94Prototyping-&-Iteration) _CD Lecture series: Rachel Berger_
-* 10/18	Presentation _first assessment_
+* [10/18	Presentation](https://github.com/juliettecezzar/thesis-f19/wiki/08%E2%80%94Presentation) _first assessment_
 
 ### Week 9–11: Medium 2
 Based on the experience of the first medium, students will create a second prototype or series of prototypes in a different media to explore an alternative approach.
