@@ -32,14 +32,14 @@ Students will create a series of prototypes that can be used to test whether or 
 Based on the experience of the first medium, students will create a second prototype or series of prototypes in a different media to explore an alternative approach.
 
 * [10/25	Research and Ideation](https://github.com/juliettecezzar/thesis-f19/wiki/09%E2%80%94Medium-2:-Research-and-Ideation) _CD Lecture series: Luke Bulman_
-* 11/1 	Prototyping & Iteration
-* 11/8	Presentation  _thesis fair, second assessment_
+* [11/1 	Prototyping & Iteration]
+* 11/8	Presentation  _second assessment_
 
 ### Week 11–14: Medium 3
 Based on the experience of the first two mediums, students will create a third prototype or series of prototypes in a different media to explore an alternative approach.
 
 * 11/15	Research and Ideation 		
-* 11/22 Prototyping & Iteration _CD Lecture series: Chris Lee_
+* 11/22 Prototyping & Iteration _thesis fair, CD Lecture series: Chris Lee_
 * 11/29	NO CLASS
 * 12/6	Presentation
     
