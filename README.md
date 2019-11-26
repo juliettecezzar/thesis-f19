@@ -39,7 +39,7 @@ Based on the experience of the first medium, students will create a second proto
 Based on the experience of the first two mediums, students will create a third prototype or series of prototypes in a different media to explore an alternative approach.
 
 * [11/15	Research and Ideation](https://github.com/juliettecezzar/thesis-f19/wiki/12%E2%80%94Research-and-Ideation,-second-assessment)  _second assessment_		
-* [11/22 Prototyping & Iteration](https://github.com/juliettecezzar/thesis-f19/wiki/12%E2%80%94Research-and-Ideation,-second-assessment) _thesis fair, CD Lecture series: Chris Lee_
+* [11/22 Prototyping & Iteration](https://github.com/juliettecezzar/thesis-f19/wiki/13%E2%80%94Medium-3:-Prototyping-&-Iteration) _thesis fair, CD Lecture series: Chris Lee_
 * 11/29	NO CLASS
 * 12/6	Presentation
     
