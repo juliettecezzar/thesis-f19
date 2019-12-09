@@ -41,7 +41,7 @@ Based on the experience of the first two mediums, students will create a third p
 * [11/15	Research and Ideation](https://github.com/juliettecezzar/thesis-f19/wiki/12%E2%80%94Research-and-Ideation,-second-assessment)  _second assessment_		
 * [11/22 Prototyping & Iteration](https://github.com/juliettecezzar/thesis-f19/wiki/13%E2%80%94Medium-3:-Prototyping-&-Iteration) _thesis fair, CD Lecture series: Chris Lee_
 * 11/29	NO CLASS
-* [12/6	Presentation](https://github.com/juliettecezzar/thesis-f19/wiki/14%E2%80%94Medium-3:-Presentation)_CD Lecture series: Hyo Kwon_
+* [12/6	Presentation](https://github.com/juliettecezzar/thesis-f19/wiki/14%E2%80%94Medium-3:-Presentation) _CD Lecture series: Hyo Kwon_
     
 ### Week 15: Final Reviews
 Students will gather their research, prototypes, feedback to share in a final critique with peers and industry professionals. Students will write a reflection statement about the subjects they chose, the concepts created, and where their thesis sits in the larger world of communication design.
