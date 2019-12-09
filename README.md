@@ -44,6 +44,6 @@ Based on the experience of the first two mediums, students will create a third p
 * [12/6	Presentation](https://github.com/juliettecezzar/thesis-f19/wiki/14%E2%80%94Medium-3:-Presentation)_CD Lecture series: Hyo Kwon_
     
 ### Week 15: Final Reviews
-Students will gather their research, prototypes, feedback to share in a final critique with peers and industry professionals. Students will write a reflection statement about the subjects they chose, the concepts created, and where their thesis sits in the larger world of communication design
+Students will gather their research, prototypes, feedback to share in a final critique with peers and industry professionals. Students will write a reflection statement about the subjects they chose, the concepts created, and where their thesis sits in the larger world of communication design.
 
 * 12/13	Final reviews
