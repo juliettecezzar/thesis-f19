@@ -46,4 +46,4 @@ Based on the experience of the first two mediums, students will create a third p
 ### Week 15: Final Reviews
 Students will gather their research, prototypes, feedback to share in a final critique with peers and industry professionals. Students will write a reflection statement about the subjects they chose, the concepts created, and where their thesis sits in the larger world of communication design.
 
-* 12/13	Final reviews
+* [12/13	Final reviews](https://github.com/juliettecezzar/thesis-f19/wiki/15%E2%80%94Final-reviews)
